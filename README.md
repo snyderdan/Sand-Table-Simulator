@@ -18,9 +18,10 @@ optionally pass a speed= parameter between 0 and 1 to scale the speed.
 If the motion you see on screen is extremely sporadic, you're telling
 the motors to move too fast.
 
-## To run the sample driver:<br/>
-    1) Open sample_driver.py in IDLE, and click run.<br/>
-    2) Open up a blank Paint window and select your brush of choice.<br/>
-    3) Type run(unitCircle) but DON'T press enter yet.<br/>
-    4) Position your mouse in the center of the Paint window.<br/>
-    5) Tab back to IDLE, and press enter. 
+## To run the sample driver
+
+  1) Open sample_driver.py in IDLE, and click run.<br/>
+  2) Open up a blank Paint window and select your brush of choice.<br/>
+  3) Type run(unitCircle) but DON'T press enter yet.<br/>
+  4) Position your mouse in the center of the Paint window.<br/>
+  5) Tab back to IDLE, and press enter. 
